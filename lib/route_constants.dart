@@ -1,0 +1,17 @@
+const String onbordingScreenRoute = "onbording";
+const String notificationPermissionScreenRoute = "notification_permission";
+const String preferredLanuageScreenRoute = "preferred_language";
+const String splashScreenRoute = "splash";
+const String logInScreenRoute = "/login";
+const String signUpScreenRoute = "/signup";
+const String homeScreenRoute = "/homeScreen";
+const String profileScreenRoute = "/MyProfile";
+const String appoitmentScreenRoute = "/appoitment";
+const String sheduleScreenRoute = "/shedule";
+const String studentDetailScreenRoute = "/studentDetail";
+const String appoitmentAcceptScreenRout = "/AppoitmentAcceptScreen";
+const String ambulanceListScreenRoute = "/ambulanceList";
+const String driverListScreenRoute = "/DriverManagementPage";
+const String changePasswordScreenRoute = "/ChangePasswordPage";
+const String myAppoitments = "/MyAppoitment";
+const String appoitmentBookingPage = "/AppointmentBookingPage";
